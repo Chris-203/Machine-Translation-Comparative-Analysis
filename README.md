@@ -1,2 +1,2 @@
 # Machine-Translation-Comparative-Analysis
-Machine translation transformer code for comparative analysis between direct translations (es-zh) and indirect translations (es-en-zh)
+This program was created by Christopher Y Cortazo Rosas, Quynh Mai Nguyen and Michael Yang of Vassar College for a final research paper for Professor Jonathan Gordon's Computational Linguistics class (cs366) to provide a comparative analysis between direct translations (es-zh) and indirect translations (es-en-zh) using data obtained from tatoeba, an online community-built database of translations.
